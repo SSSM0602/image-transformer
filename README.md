@@ -94,6 +94,6 @@ To add a new transformation:
 ---
 
 
-## 🏫 Acknowledgment
+## Acknowledgment
 
 This project was developed as part of the **Object-Oriented Data Structures in C++** specialization on Coursera.
