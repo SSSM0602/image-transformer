@@ -5,14 +5,14 @@ It implements an image transformation tool using modular, object-oriented design
 
 ---
 
-## 📘 Overview
+## Overview
 
 The project demonstrates C++ OOP fundamentals such as classes, encapsulation, inheritance, and abstraction through image manipulation.  
 It supports basic image operations like overlaying and blending images, with a structure designed for easy extensibility.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 cpp-image-transformer/
@@ -30,7 +30,7 @@ cpp-image-transformer/
 
 ---
 
-## ✨ Features
+## Features
 
 - Modular, object-oriented architecture  
 - Image overlay and blending support  
@@ -40,7 +40,7 @@ cpp-image-transformer/
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - **C++17** or newer  
 - Standard C++ libraries  
@@ -48,7 +48,7 @@ cpp-image-transformer/
 
 ---
 
-## ⚙️ Build and Run
+## Build and Run
 
 ```bash
 # Build the project
@@ -68,7 +68,7 @@ make
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - The core logic is implemented in `ImageTransform.cpp` and `ImageTransform.h`.  
 - `main.cpp` demonstrates how to instantiate and use transformation objects.  
@@ -76,7 +76,7 @@ make
 
 ---
 
-## 🧩 Extending the Project
+## Extending the Project
 
 To add a new transformation:
 1. Create a new subclass of the base transformation class.
@@ -85,7 +85,7 @@ To add a new transformation:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 - Unit tests are located in the `tests/` directory.  
 - They validate transformation correctness and pixel-level accuracy.  
